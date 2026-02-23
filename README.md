@@ -2,7 +2,7 @@
 
 A Claude Code skill for writing clear, confident, and technically credible content for developer audiences.
 
-Built from first principles developed through years of developer content work — covering everything from sentence craft to narrative architecture.
+Built from first principles developed through years of developer content work, covering everything from sentence craft to narrative architecture.
 
 ## What's Included
 
@@ -15,7 +15,7 @@ Built from first principles developed through years of developer content work �
 
 ```bash
 mkdir -p ~/.claude/skills
-git clone https://github.com/YOUR_USERNAME/technical-writing-best-practices.git ~/.claude/skills/technical-writing-best-practices
+git clone https://github.com/Xamfonos/technical-writing-best-practices.git ~/.claude/skills/technical-writing-best-practices
 ```
 
 ### Manual install (skill file only)
@@ -34,7 +34,7 @@ In Claude Code, ask Claude directly:
 ```
 Write a technical blog post about our new API using technical writing best practices
 Review this tutorial draft for structure and argument quality
-Help me rewrite this section — it's too vague and hedged
+Help me rewrite this section, it's too vague and hedged
 ```
 
 ## Capabilities
@@ -66,7 +66,7 @@ Help me rewrite this section — it's too vague and hedged
 
 ## Core Principle
 
-> "Don't just tell developers what to do — tell them why the tool works the way it does. Understanding beats memorization."
+> "Don't just tell developers what to do; tell them why the tool works the way it does. Understanding beats memorization."
 
 ## Version History
 
